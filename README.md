@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... discovering which field I would like to work in.
 - 🌱 I’m currently learning ... CS through the MCIT Master's program at University of Pennsyvlania.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me ... https://www.linkedin.com/in/nmakishi/
 
 <!---
 naomi-m/naomi-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
