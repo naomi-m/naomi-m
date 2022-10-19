@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naomi-m
 - 👀 I’m interested in ... discovering which field I would like to work in.
-- 🌱 I’m currently learning ... how to program through the MCIT program at University of Pennsyvlania.
+- 🌱 I’m currently learning ... CS through the MCIT Master's program at University of Pennsyvlania.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
