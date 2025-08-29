@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @naomi-m
-- 👀 I’m interested in ... solving complex real-life problems with well-designed programming solutions.
-- 📫 How to reach me ... https://www.linkedin.com/in/makishi/
+- 👀 I’m interested in ... solving complex real-life problems
+- 📫 How to reach me ... https://www.linkedin.com/in/makishi
+- 💻 TryHackMe ... https://tryhackme.com/p/bigmak0
 
 - NOTE ON ACCESS In compliance with the University of Pennsylvania academic integrity policies, public access to certain projects may be disabled. 
 Please contact me directly if you are a recruiter/prospective employer and would like access. Thank you.
